@@ -9,7 +9,7 @@ Request aborting is supported via the [`signal` option](2-options.md#signal) and
 
 ### <code>got(url: string | URL, options?: [OptionsInit](typescript.md#optionsinit), defaults?: [Options](2-options.md))</code>
 
-**Returns: <code>Promise<[Response](response.md)></code>**
+**Returns: <code>Promise<[Response](3-streams.md#response-2)></code>**
 
 The most common way is to pass the URL as the first argument, then the options as the second.
 
